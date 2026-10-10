@@ -1,5 +1,4 @@
 ## 👋 SUP, Good to See U!
-<br></br>
 ## 🦁 About ME!
 - 🔭 I’m interested in Agentic AI
 - 🌱 I’m learning Artificial Intelligence
