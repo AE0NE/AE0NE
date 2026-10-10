@@ -1,12 +1,12 @@
-## 👋 SUP, Good to See U! 👋
-<br>
+## 👋 SUP, Good to See U! 
+<br></br>
 
-## - 🔭 I’m interested in Agentic AI
-## - 🌱 I’m learning Artificial Intelligence
-## - 💬 Ask me about anything
-## - 📫 How to reach me: sow0114@naver.com
-## - 😄 Pronouns: WINTER
+## 🦁 About ME !
+- 🔭 I’m interested in Agentic AI
+- 🌱 I’m learning Artificial Intelligence
+- 📫 How to reach me : sow0114@naver.com
 
-</br>
+<br></br>
 
+## 📊 Github Stat
 ![](./profile-3d-contrib/profile-green-animate.svg)
